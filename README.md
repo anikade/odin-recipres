@@ -5,8 +5,8 @@
 
 - 🌱 I’m currently learning **HTML on Odin Project Course**
 
-This is the first step in my journey towards a career in full-stack web development. 
-The first, and perhaps most important, file I created was the index.html, which is the default entry point for any web application. All other subsequent work was build on this initial starting point. The file suffix .html refers to HTML, or Hypertext Markup Language. HTML allows us to format webpages and text in a similar way to how a word processor formats documents and the text inside them. However, the biggest difference between HTML and a word processor is the ability to link between any document that's on the web, anywhere in the world. This is the "hypertext" in HTML.
+I'm starting this path now with the goal of becoming a full-stack web developer. 
+The index.html file, which is the default entry point for any online site, was the first and possibly most significant file I ever produced. This served as the foundation for all other later efforts. The file extension ".html" denotes Hypertext Markup Language, or HTML. Similar to how a word processor formats documents and the information within them, HTML enables us to format webpages and text. The capacity to link between the any document on the web, anywhere in the world, is the main distinction between HTML and a word processor.
 <p>
 </p>
 
@@ -24,13 +24,13 @@ The first, and perhaps most important, file I created was the index.html, which 
 - Best practices: indentation, file naming conventions and directory structure
 
 <h3 align="left">Git</h3>
-git clone
-git add
-git commit
-git branch
-git push
-git pull
-GitHub
+- git clone
+- git add
+- git commit
+- git branch
+- git push
+- git pull
+- GitHub
 
 - 💬 Ask me about **HTML, CSS**
 
